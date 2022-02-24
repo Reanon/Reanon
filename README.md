@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 <!-- 在右边显示热门语言和状态  -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=reanon&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
-<p><img align="right" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=reanon&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)" alt="Reanon" /></p>
+<p><img align="right" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=reanon&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR" alt="Reanon" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reanon" alt="Reanon" /></p>
+
+
+
