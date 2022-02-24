@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 [![Reanon's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=reanon&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)](https://reanon.top/)
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LinXueyuanStdio&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LinXueyuanStdio" alt="LinXueyuanStdio" /></p>
