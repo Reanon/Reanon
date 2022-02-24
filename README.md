@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <!-- 显示,  -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-| <a href="https://reanon.top/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reanon&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Reanon's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reanon&layout=compact&theme=swift&hide_border=true" /></a> |
+| <a href="https://reanon.top/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reanon&show_icons=true&include_all_commits=true&hide_border=true" alt="Reanon's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reanon&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
