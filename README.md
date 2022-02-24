@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=reanon" alt="Reanon" /></p>
 
-<p><img align="right" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=reanon&langs_count=6" alt="Reanon" /></p>
-
+<p><img align="right" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=reanon&layout=compact" alt="Reanon" /></p>
