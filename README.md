@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Reanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=reanon)](https://github.com/anuraghazra/github-readme-stats)
+<!--隐藏 contribs,prs 和显示图标,  -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Reanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=reanon&hide=contribs,prs&show_icons=true&theme=swift)](https://reanon.top/)
