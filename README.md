@@ -16,7 +16,7 @@
 </h1>
 
 ### About
-👨‍🎓 I’m currently working on ...
+I’m currently working on ...
 
 <!-- 显示热门语言和状态  -->
 <img src="https://github-readme-stats.vercel.app/api?username=reanon&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
