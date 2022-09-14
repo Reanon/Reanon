@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-### About
 I’m currently working on ...
 
 <!-- 显示热门语言和状态  -->
