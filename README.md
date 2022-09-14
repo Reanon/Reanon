@@ -15,8 +15,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I’m currently working on Cloud Native Network Developping...
-
+- 🔭 I’m currently working on Cloud Native Network Developping...
+- 🌱 I’m currently learning C, Go, Python, Linux...
 - 💬 Ask me about anything [here](https://github.com/reanon/reanon/issues)
 
 <!-- 显示热门语言和状态  -->
